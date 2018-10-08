@@ -2917,7 +2917,7 @@
 
 	#banner {
 		padding: 8em 0 9em 0;
-		background-image: url(../../images/banner2.jpg);
+		background-image: url(../../images/banner1.jpg);
 		background-size: cover;
 		background-position: bottom;
 		background-attachment: fixed;
@@ -3021,7 +3021,7 @@
 			}
 
 				#banner .inner {
-					padding-top: 6em;
+					padding-top: 3em;
 				}
 
 				#banner h1 {
